@@ -26,4 +26,4 @@ Using the "mysql-connector-python" library, Data is fetched from the MySQL datab
 ### Summary
 The culmination of this project will be a live geo visualization dashboard that provides insights and information derived from the PhonePe Pulse GitHub repository. The dashboard's interactive nature will empower users to explore various metrics and statistics with ease. With over 10 different dropdown options available, users can customize their dashboard experience and extract meaningful insights. By maintaining data in a MySQL database, the dashboard remains up-to-date and relevant.
 
-In summary, the PhonePe Pulse Data Visualization Project offers a robust and user-friendly solution for extracting, transforming, and visualizing data. By combining technical expertise with advanced visualization tools, we aim to provide a valuable resource for data analysis and decision-making.
+Finally, the PhonePe Pulse Data Visualization Project offers a robust and user-friendly solution for extracting, transforming, and visualizing data. By combining technical expertise with advanced visualization tools, we aim to provide a valuable resource for data analysis and decision-making.
